@@ -176,5 +176,5 @@
 <!--ZendeskChat-->
 
 <!-- Start of d3v-pendo-ts-test Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=70be359a-9c3d-41ee-9923-3011e9451a80"> </script>
+"https://static.zdassets.com/ekr/snippet.js?key=70be359a-9c3d-41ee-9923-3011e9451a80"
 <!-- End of d3v-pendo-ts-test Zendesk Widget script -->
