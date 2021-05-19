@@ -173,8 +173,3 @@
 //       })('fd2507d5-0da6-47c2-5189-f087c06e6922');
 // </script>
 
-<!--ZendeskChat-->
-
-<!-- Start of d3v-pendo-ts-test Zendesk Widget script -->
-"https://static.zdassets.com/ekr/snippet.js?key=70be359a-9c3d-41ee-9923-3011e9451a80"
-<!-- End of d3v-pendo-ts-test Zendesk Widget script -->
